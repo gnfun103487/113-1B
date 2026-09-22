@@ -10,7 +10,7 @@
 
 我常用的網站：[Google](https://www.google.com)
 
-![隨便放一張圖](https://www.4gamers.com.tw/gamily/detail/lqq4gv9qxvwejq)
+![隨便放一張圖](https://picsum.photos/400/250)
 
 > 程式碼之所以有價值，
 > 是因為它能被閱讀、理解和修改。
